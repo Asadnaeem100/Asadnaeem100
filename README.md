@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My Portfolio [https://asadnaeem-webdev.surge.sh/](https://asadnaeem-webdev.surge.sh/)
+- 👨‍💻 My Portfolio [https://asadnaeem-webdev.surge.sh/](https://asadnaeem-portfolio.surge.sh/)
 
 - 📫 How to reach me **asadn7008@gmail.com**
 
