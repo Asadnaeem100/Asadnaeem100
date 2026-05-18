@@ -1,4 +1,9 @@
 ![logo](linkedin_profile_image.png)
+
+<p align="center">
+  <img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Asad Naeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
